@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="[https://tenor.com/view/anime-keyboard-typing-keyboard-anime-anime-aesthetic-gif-23803071](https://giffiles.alphacoders.com/199/199920.gif)"  />
+<img align="right" height="200" src="https://giffiles.alphacoders.com/199/199920.gif"  />
 
 ###
 
