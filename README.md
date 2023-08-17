@@ -1,6 +1,5 @@
-![Header](./github-header-image.png)
-<h1 align="left">Hey 👋 What's up? Sachin Here..</h1>
 
+<img align="right" height="350" width="500" src="./github-header-image.png"/>
 ###
 
 <h2 align="left">About me</h2>
