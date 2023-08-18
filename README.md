@@ -52,7 +52,7 @@
 ###
 
 <br clear="both">
-<img align="left" height="80" width="80" src="https://i.pinimg.com/originals/34/fa/7e/34fa7eee345476a2541ba9c9f1156faf.gif"/>
+<img align="left" height="80" width="80" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHF0NjJ3djJrbjRqNnRxeHRqZno0dWh1M2YwbHV0M2Zxc3o3bW9zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EUckaYGYUZhaZX2xKY/giphy.gif"/>
 <h2 align="left">Connect With me</h2>
 
 
