@@ -16,7 +16,7 @@
 <br clear="both">
 
 
-<img align="left" height="120" width="100" src="https://media.tenor.com/seQ_BHbty68AAAAC/rageguin-penguin.gif"/>
+<img align="left" height="80" width="80" src="https://media.tenor.com/seQ_BHbty68AAAAC/rageguin-penguin.gif"/>
 <h2 align="left">I code with</h2>
 
 ###
@@ -52,7 +52,7 @@
 ###
 
 <br clear="both">
-<img align="left" height="120" width="100" src="https://i.pinimg.com/originals/34/fa/7e/34fa7eee345476a2541ba9c9f1156faf.gif"/>
+<img align="left" height="80" width="80" src="https://i.pinimg.com/originals/34/fa/7e/34fa7eee345476a2541ba9c9f1156faf.gif"/>
 <h2 align="left">Connect With me</h2>
 
 
