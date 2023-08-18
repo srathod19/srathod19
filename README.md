@@ -17,7 +17,7 @@
 
 
 <img align="left" height="80" width="80" src="https://media.tenor.com/seQ_BHbty68AAAAC/rageguin-penguin.gif"/>
-<h2 align="left">I code with</h2>
+<h2 align="left">My Toolbox</h2>
 
 ###
 
@@ -53,7 +53,7 @@
 
 <br clear="both">
 <img align="left" height="80" width="80" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHF0NjJ3djJrbjRqNnRxeHRqZno0dWh1M2YwbHV0M2Zxc3o3bW9zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EUckaYGYUZhaZX2xKY/giphy.gif"/>
-<h2 align="left">Connect With me</h2>
+<h2 align="left">Connect with me</h2>
 
 
 ###
