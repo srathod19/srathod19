@@ -18,6 +18,7 @@
 <h2 align="left">I code with</h2>
 
 ###
+<img align="right" height="100" width="300"  src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" />
 
 <br clear="both">
 
@@ -45,7 +46,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
 </div>
-<img align="right" height="100" width="300"  src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" />
+
+
 ###
 
 <br clear="both">
