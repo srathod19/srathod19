@@ -16,7 +16,7 @@
 <br clear="both">
 
 
-<img align="right" height="150" width="100" src="https://i.gifer.com/embedded/download/YCZM.gif"/>
+<img align="left" height="150" width="100" src="https://media.tenor.com/seQ_BHbty68AAAAC/rageguin-penguin.gif"/>
 <h2 align="left">I code with</h2>
 
 ###
