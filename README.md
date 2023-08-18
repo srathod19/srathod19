@@ -53,8 +53,8 @@
 <h2 align="left">Connect With me</h2>
 
 
-<br clear="both">
 ###
+<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sachin-r-56479b123" target="_blank">
