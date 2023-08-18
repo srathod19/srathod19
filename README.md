@@ -62,7 +62,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
+<br clear="both">
 ###
 <h2 align="left">Stats</h2>
 <div align="center">
