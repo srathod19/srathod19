@@ -81,4 +81,4 @@
 ![snake gif](https://github.com/srathod19/srathod19/blob/output/github-contribution-grid-snake.gif)
 -->
 <br clear="both">
-<img align="center" height="350" width="1000" src="https://pa1.aminoapps.com/7013/b6cd539d5ee6a0a38c58527b3b46586085bb2568r1-374-225_hq.gif"/>
+<img align="center" height="450" width="1000" src="https://pa1.aminoapps.com/7013/b6cd539d5ee6a0a38c58527b3b46586085bb2568r1-374-225_hq.gif"/>
