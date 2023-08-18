@@ -71,6 +71,7 @@
 ###
 <br clear="both">
 
+<img align="left" height="80" width="80" src="https://media.tenor.com/3sZqYBBcBTwAAAAC/pp-mini-penguin.gif"/>
 <h2 align="left">Stats</h2>
 
 <br clear="both">
