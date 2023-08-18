@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Messing with programming since 2016...<br>📚 I'm currently learning DSA...<br>🎯 Goals: To make money...<br>🎲 Fun fact: I play chess everyday...</p>
+<p align="left">✨ Messing with programming since <b>2016</b><br>📚 I'm currently learning <b>DSA</b> <br>🎯 Goals: To make <b>money</b><br>🎲 Fun fact: I play <b>chess</b> everyday...</p>
 
 ###
 
