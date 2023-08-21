@@ -84,5 +84,4 @@
 ![snake gif](https://github.com/srathod19/srathod19/blob/output/github-contribution-grid-snake.gif)
 -->
 
-<img src="https://raw.githubusercontent.com/srathod19/srathod19/output/snake.svg" alt="Snake animation" />
 ###
