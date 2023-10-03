@@ -77,7 +77,7 @@
 <br clear="both">
 
 <div align="center">
-<img src = "http://github-readme-streak-stats.herokuapp.com?user=srathod19)](https://git.io/streak-stats"/>
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=srathod19"/>
 
 </div>
 <!---
