@@ -1,119 +1,126 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/srathod19/srathod19/main/assets/banner.svg" alt="Terminal: Sachin Rathod, Full Stack Web Developer" width="100%" />
+<img src="https://raw.githubusercontent.com/srathod19/srathod19/main/assets/hero.svg" alt="Sachin Rathod. Python, RAG and Generative AI. I build LLM apps that retrieve, reason and cite sources." width="100%" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sachin-r-56479b123"><img src="https://img.shields.io/badge/linkedin-connect-22C55E?style=flat-square&logo=linkedin&logoColor=white&labelColor=1B2336" alt="LinkedIn" /></a>
-<a href="mailto:sachin.rathod.sr904@gmail.com"><img src="https://img.shields.io/badge/email-say_hi-22C55E?style=flat-square&logo=gmail&logoColor=white&labelColor=1B2336" alt="Email" /></a>
-<a href="https://github.com/srathod19?tab=repositories"><img src="https://img.shields.io/badge/repos-27-22C55E?style=flat-square&logo=github&logoColor=white&labelColor=1B2336" alt="Repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=srathod19&label=views&color=22C55E&style=flat-square&labelColor=1B2336" alt="Profile views" />
+<a href="https://www.linkedin.com/in/sachin-r-56479b123"><img src="https://img.shields.io/badge/-LinkedIn-151A3A?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
+<a href="mailto:sachin.rathod.sr904@gmail.com"><img src="https://img.shields.io/badge/-Email-151A3A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
+<a href="https://github.com/srathod19?tab=repositories"><img src="https://img.shields.io/badge/-Repositories-151A3A?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Repositories" /></a>
+<img src="https://komarev.com/ghpvc/?username=srathod19&label=PROFILE+VIEWS&style=for-the-badge&color=151A3A&labelColor=151A3A" alt="Profile views" />
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/srathod19/srathod19/main/assets/divider.svg" width="100%" alt="" />
 
-## `~/about`
+## About
 
-```bash
-$ cat about.json
-```
+I build **AI applications in Python**, with a focus on **Retrieval-Augmented Generation (RAG)**: connecting large language models to real documents so their answers are grounded, traceable, and useful.
 
-```json
-{
-  "name": "Sachin Rathod",
-  "role": "Full Stack Web Developer",
-  "coding_since": 2016,
-  "learning": ["Data Structures & Algorithms", "Advanced React.js"],
-  "building": "Full-stack apps with React, Node.js and MySQL",
-  "goal": "Land a developer role and ship real products",
-  "off_keyboard": "Plays chess every day ♟",
-  "status": "Open to junior developer roles"
-}
-```
+I've been coding since **2016**, and I'm now going deep on LLMs, vector search, and the engineering that turns a demo into something reliable. Off the keyboard, I play chess every day.
+
+> [!NOTE]
+> My latest work is pinned right below this README. 👇
 
 <br/>
 
-## `~/stack`
+## What I work on
 
-```bash
-$ ls ./stack
-```
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css&perline=6" alt="Frontend and backend" />
-<br/>
-<img src="https://skillicons.dev/icons?i=py,cpp,django,codeigniter,mysql&perline=5" alt="Languages and databases" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,vscode,postman&perline=6" alt="Tools" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
-
-<br/>
-
-## `~/projects`
-
-```bash
-$ ls -la ./projects
-```
-
-| Project | What it does | Stack |
+| 🔎 Retrieval | 🧠 Generation | 📏 Evaluation |
 |:--|:--|:--|
-| **[NewsJunkie](https://github.com/srathod19/NewsJunkie)** | React app that brings the latest news into one clean feed | `React` `JavaScript` |
-| **[textUtils](https://github.com/srathod19/textUtils)** | Text tool for case changes, word count and quick cleanups | `React` `JavaScript` |
-| **[Basic_chat_app_using_socket](https://github.com/srathod19/Basic_chat_app_using_socket)** | Real-time chat app built to learn WebSockets | `Node.js` `Socket.io` |
-| **[Nodejs_2](https://github.com/srathod19/Nodejs_2)** | Basic REST API examples | `Node.js` `Express` |
-
-> [!TIP]
-> More in my [repositories](https://github.com/srathod19?tab=repositories). Live demos are on the way.
+| Document loading & chunking<br/>Embeddings & vector search<br/>Hybrid search & reranking | Prompt design<br/>Grounded, cited answers<br/>Context-window management | Retrieval quality checks<br/>Answer faithfulness<br/>Iterating on failure cases |
 
 <br/>
 
-## `~/stats`
+## RAG, end to end
 
-```bash
-$ git log --stat
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/srathod19/srathod19/main/assets/rag-pipeline.svg" alt="RAG pipeline: Documents, Chunking, Embeddings, Vector DB, Retriever, LLM, Answer with sources." width="100%" />
+</div>
+
+<br/>
+
+## Tech stack
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/-Python-151A3A?style=for-the-badge&logo=python&logoColor=A78BFA" alt="Python" />
+<img src="https://img.shields.io/badge/-JavaScript-151A3A?style=for-the-badge&logo=javascript&logoColor=22D3EE" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-C++-151A3A?style=for-the-badge&logo=cplusplus&logoColor=A78BFA" alt="C++" />
+<img src="https://img.shields.io/badge/-SQL-151A3A?style=for-the-badge&logo=mysql&logoColor=22D3EE" alt="SQL" />
+</td>
+</tr>
+<tr>
+<td><b>AI & RAG</b></td>
+<td>
+<img src="https://img.shields.io/badge/-LangChain-151A3A?style=for-the-badge&logo=langchain&logoColor=A78BFA" alt="LangChain" />
+<img src="https://img.shields.io/badge/-Hugging_Face-151A3A?style=for-the-badge&logo=huggingface&logoColor=22D3EE" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/-OpenAI_API-151A3A?style=for-the-badge&logoColor=A78BFA" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/-FAISS-151A3A?style=for-the-badge&logoColor=22D3EE" alt="FAISS" />
+<img src="https://img.shields.io/badge/-ChromaDB-151A3A?style=for-the-badge&logoColor=A78BFA" alt="ChromaDB" />
+</td>
+</tr>
+<tr>
+<td><b>Data & ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/-NumPy-151A3A?style=for-the-badge&logo=numpy&logoColor=A78BFA" alt="NumPy" />
+<img src="https://img.shields.io/badge/-Pandas-151A3A?style=for-the-badge&logo=pandas&logoColor=22D3EE" alt="Pandas" />
+<img src="https://img.shields.io/badge/-scikit--learn-151A3A?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/-PyTorch-151A3A?style=for-the-badge&logo=pytorch&logoColor=22D3EE" alt="PyTorch" />
+</td>
+</tr>
+<tr>
+<td><b>Backend & Apps</b></td>
+<td>
+<img src="https://img.shields.io/badge/-FastAPI-151A3A?style=for-the-badge&logo=fastapi&logoColor=A78BFA" alt="FastAPI" />
+<img src="https://img.shields.io/badge/-Flask-151A3A?style=for-the-badge&logo=flask&logoColor=22D3EE" alt="Flask" />
+<img src="https://img.shields.io/badge/-Django-151A3A?style=for-the-badge&logo=django&logoColor=A78BFA" alt="Django" />
+<img src="https://img.shields.io/badge/-Streamlit-151A3A?style=for-the-badge&logo=streamlit&logoColor=22D3EE" alt="Streamlit" />
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/-Git-151A3A?style=for-the-badge&logo=git&logoColor=A78BFA" alt="Git" />
+<img src="https://img.shields.io/badge/-Docker-151A3A?style=for-the-badge&logo=docker&logoColor=22D3EE" alt="Docker" />
+<img src="https://img.shields.io/badge/-Jupyter-151A3A?style=for-the-badge&logo=jupyter&logoColor=A78BFA" alt="Jupyter" />
+<img src="https://img.shields.io/badge/-VS_Code-151A3A?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE" alt="VS Code" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=srathod19&show_icons=true&hide_border=false&border_color=1B2336&bg_color=0F172A&title_color=22C55E&icon_color=22C55E&text_color=94A3B8&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srathod19&layout=compact&hide_border=false&border_color=1B2336&bg_color=0F172A&title_color=22C55E&text_color=94A3B8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=srathod19&show_icons=true&hide_border=false&border_color=2A2F55&bg_color=0B1020&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&count_private=true&border_radius=16" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=srathod19&background=0B1020&border=2A2F55&ring=8B5CF6&fire=22D3EE&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=FFFFFF&sideLabels=94A3B8&dates=94A3B8&border_radius=16" alt="GitHub streak" />
 
-<img src="https://streak-stats.demolab.com?user=srathod19&background=0F172A&border=1B2336&ring=22C55E&fire=22C55E&currStreakNum=F8FAFC&currStreakLabel=22C55E&sideNums=F8FAFC&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srathod19&bg_color=0F172A&color=94A3B8&line=22C55E&point=F8FAFC&area=true&area_color=22C55E&hide_border=true&title_color=22C55E" width="100%" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srathod19&bg_color=0B1020&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&title_color=A78BFA" width="100%" alt="Contribution activity graph" />
 
 </div>
 
 <br/>
 
-## `~/now`
+## Up next
 
-```bash
-$ tail -f progress.log
-```
+- [ ] Build and publish a RAG app over my own documents
+- [ ] Add retrieval and answer evaluation to my pipelines
+- [ ] Deploy a live demo and write up what I learned
 
-```diff
-+ solving DSA problems every week
-+ building a full-stack project with React, Node.js and MySQL
-+ deploying projects with live demos
-- tutorial hell
-```
-
-<br/>
-
-## `~/contact`
-
-```bash
-$ ./contact.sh
-```
+<img src="https://raw.githubusercontent.com/srathod19/srathod19/main/assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sachin-r-56479b123"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:sachin.rathod.sr904@gmail.com"><img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=0F172A" alt="Email" /></a>
+### Let's build something
 
-```bash
-$ echo "thanks for stopping by ⭐"
-```
+I'm happy to talk about Python, RAG, LLMs, or a good chess opening.
+
+<a href="https://www.linkedin.com/in/sachin-r-56479b123"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:sachin.rathod.sr904@gmail.com"><img src="https://img.shields.io/badge/-Send_an_email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
 
 </div>
